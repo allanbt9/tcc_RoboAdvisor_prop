@@ -1,0 +1,5 @@
+https://towardsdatascience.com/a-beginners-guide-to-linear-regression-in-python-with-scikit-learn-83a8f7ae2b4f
+
+
+resumo sobre os principais algoritimos de AM
+https://medium.com/@cristianofurquim/10-algoritmos-de-aprendizagem-de-máquinas-machine-learning-que-você-precisa-saber-c49f9eefe319

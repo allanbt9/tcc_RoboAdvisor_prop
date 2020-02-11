@@ -18,3 +18,5 @@ O ponto chave aqui é a acessibilidade ao investimento.
 
 nomes:
 stock index futures 
+
+Exchange Rate = taxa de câmbio
