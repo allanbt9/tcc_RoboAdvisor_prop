@@ -3,3 +3,16 @@ https://towardsdatascience.com/a-beginners-guide-to-linear-regression-in-python-
 
 resumo sobre os principais algoritimos de AM
 https://medium.com/@cristianofurquim/10-algoritmos-de-aprendizagem-de-máquinas-machine-learning-que-você-precisa-saber-c49f9eefe319
+
+
+
+Accuracy score is only for classification problems. 
+For regression problems you can use: R2 Score, MSE (Mean Squared Error), RMSE (Root Mean Squared Error).
+
+
+Link sobre as métricas para se usar na regressão linear
+https://www.bmc.com/blogs/mean-squared-error-r2-and-variance-in-regression-analysis/
+
+
+aprendizagem de máquina parte 3
+https://medium.com/machina-sapiens/aprendizagem-de-máquina-é-divertido-parte-3-deep-learning-e-redes-neuronais-convolutivas-879e0ee7ba48
