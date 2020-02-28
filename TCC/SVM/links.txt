@@ -1,0 +1,3 @@
+técnica com SVM, usando função polinomial no kernel
+
+https://www.csie.ntu.edu.tw/~cjlin/libsvm/
