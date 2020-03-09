@@ -1,0 +1,29 @@
+tcc_construcaoRoboInvestidor
+
+2005 houve o fim do pregão viva-voz (PVV), tornando a bolsa totalmente eletrônica.
+
+Para implementar o robô investidor foi utilizado a plataforma institucional
+ multimercado MetaTrader 51, basicamente uma corretora 
+
+vatagens: nao deixa ser atrapalhado por emoções e respondem imediatamente a mudanças 
+no mercado, se um ativo mudar de preço a resposta é instantanea
+
+1.2 objetivo geral e especifico
+
+
+. Os autores ressaltam
+a dificuldade de descobrir regras de negociação a partir de dados não-lineares e complexos,
+embora possam obter sucesso. São necessários dois processos, discretização dos dados
+e encontrar redução dos conjuntos (subconjuntos). No entanto, ambos os processos são
+conhecidos por serem problemas NP-Difícil
+
+
+controle de risco
+stop loss e stop gain (meta de perca e ganho, 6 e 2 pontos respectivamente )
+
+stop movel, o stop loss ou o gain varia junto da variaçao do preço do ativo 
+na hora da compra ou da venda
+
+pag 55, projeto e desenvolvimento
+
+day trading

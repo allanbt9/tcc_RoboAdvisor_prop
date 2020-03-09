@@ -1,0 +1,10 @@
+Forecasting S&P 500 stock index futures with a hybrid AI
+system
+
+Fala sobre uma IA hibrida, juntando Redes Neurais e conventional rule-based systems technique
+Comparou várias combinaç~es, mas no geral a que teve uso das redes neurais se saiu bem superior
+
+
+Um modelo para predição de bolsa de valores baseado em mineração de opinião
+link para referencia dele e outras coisas
+http://tedebc.ufma.br:8080/jspui/handle/tede/297

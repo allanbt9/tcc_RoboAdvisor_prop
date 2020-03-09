@@ -1,0 +1,22 @@
+Existem vários tipos de contratos futuros
+
+é possível investir neles em um ambiente chamado 'Mercado Futuro'
+
+o índice Bovespa é o principal indicador da B3, basicamente ele é a pontuação,
+aquele famoso '117 mil pontos'
+
+é posssivel investir nele com um contrato chamado de Índice Futuro, existem dois tipos dele?
+
+índice grande ou cheio, com a sigla IND
+
+mini indice, com a sigla WIN
+
+o mini indice é um contrato futuro derivado do índice Bovespa, o mini indice tem 20% da pontuação do índice cheio
+ou seja, a cada oscilação de 1 real do Ibovespa, representa 0.20 centavos de lucro ou prejuízo do mini índice
+
+O ponto chave aqui é a acessibilidade ao investimento.
+
+nomes:
+stock index futures 
+
+Exchange Rate = taxa de câmbio
